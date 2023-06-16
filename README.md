@@ -44,7 +44,7 @@ python -m pip install -r requirements.txt
 python main.py
 ```
 
-4. Provide your API credentials when prompted. These credentials should be obtained from Adobe Extract.
+4. Provide your API credentials before hand. These credentials should be obtained from Adobe Extract.
 
 5. The extraction process will begin, and once completed, the extracted data will be saved in `output.csv` in the same directory as `main.py`.
 
